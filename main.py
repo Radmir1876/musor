@@ -1,10 +1,4 @@
 #№1
-a = int(input())
-b = int(input())
-if a>b
-    print(b)
-else:
-    print(a)
 s = input()
 print(s[2])
 print(s[-2])
